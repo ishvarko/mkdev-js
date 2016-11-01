@@ -1,0 +1,23 @@
+{
+  "name": "mkdev",
+  "version": "1.0.0",
+  "description": "Mkdev JavaScript Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishvarko/mkdev-js.git"
+  },
+  "author": "Aleksandr Antonenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishvarko/mkdev-js/issues"
+  },
+  "homepage": "https://github.com/ishvarko/mkdev-js#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
